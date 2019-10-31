@@ -1,0 +1,48 @@
+{
+  "name": "boulangerie",
+  "version": "1.0.0",
+  "description": "An adapter pattern for asyncronous data retrieval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samrocksc/boulangerie.git"
+  },
+  "keywords": [
+    "sql",
+    "orm",
+    "connector",
+    "raw",
+    "knex",
+    "sequelize",
+    "data",
+    "api"
+  ],
+  "devDependencies": {
+    "apollo-boost": "^0.4.4",
+    "apollo-client": "^2.6.4",
+    "aws-sdk": "^2.548.0",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^4.2.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jest": "^22.5.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "graphql": "^14.5.8",
+    "graphql-tag": "^2.10.1",
+    "ink-docstrap": "^1.3.2",
+    "jest": "^23.6.0",
+    "jsdoc": "^3.5.5",
+    "knex": "^0.19.5",
+    "mysql-bricks": "^1.1.1",
+    "mysql2": "^1.7.0",
+    "pg": "^7.12.1",
+    "prettier": "^1.17.0",
+    "sql-bricks": "^2.0.4"
+  },
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
+}
